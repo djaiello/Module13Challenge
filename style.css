@@ -1,0 +1,14 @@
+body {
+  color: black;
+}
+
+.jumbotron {
+  background-image: url("bellybutton.jfif");
+  background-size: 100% 100%;
+  text-align: center;
+  color: white
+}
+
+.descrip {
+  font-size: 18px
+}
